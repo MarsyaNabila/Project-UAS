@@ -276,6 +276,19 @@ Penjelasan:
    3.Keluar dari program.
 
 - Jika pilihan tidak valid, pesan kesalahan akan ditampilkan, dan program meminta input lagi dari pengguna.
+
+
+# Contoh Output Program
+Berikut adalah contoh output setelah pengguna berhasil memasukkan data:
+
+![Screenshot 2025-01-06 113616](https://github.com/user-attachments/assets/559ffa15-9f57-4667-a44e-949f807514ba)
+
+![Screenshot 2025-01-06 113656](https://github.com/user-attachments/assets/25824c5a-50fe-40fd-b253-67b1ee4cd00f)
+
+
+
+
+
  
 
 
